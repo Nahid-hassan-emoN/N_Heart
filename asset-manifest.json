@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/N_Heart/static/css/main.2f17f55a.css",
+    "main.js": "/N_Heart/static/js/main.45702b2c.js",
+    "static/js/787.2e79988e.chunk.js": "/N_Heart/static/js/787.2e79988e.chunk.js",
+    "static/media/smile1.png": "/N_Heart/static/media/smile1.1744deecba3865915da3.png",
+    "static/media/red-4k-lo.jpg": "/N_Heart/static/media/red-4k-lo.c72d99bcb5a91a4f21b0.jpg",
+    "static/media/fantasy-art.jpg": "/N_Heart/static/media/fantasy-art.6789f901269d42e1f68b.jpg",
+    "static/media/titanic.jpg": "/N_Heart/static/media/titanic.72779eede6f887deab33.jpg",
+    "static/media/love22.jpg": "/N_Heart/static/media/love22.26131ae79d4b1a8dc6cd.jpg",
+    "static/media/heart-s.jpg": "/N_Heart/static/media/heart-s.3be2da6216ad669398ac.jpg",
+    "static/media/red-flower.jpg": "/N_Heart/static/media/red-flower.813ce994f6cc0c3bc2a1.jpg",
+    "static/media/roses-flowers-heart.jpg": "/N_Heart/static/media/roses-flowers-heart.65dbd54ba75bf1f65ade.jpg",
+    "static/media/pink-love.jpg": "/N_Heart/static/media/pink-love.6eecbb0b5c72b6438d19.jpg",
+    "static/media/1love.jpg": "/N_Heart/static/media/1love.63c14d635aee4f0768d5.jpg",
+    "static/media/backlit.jpg": "/N_Heart/static/media/backlit.065bada09bd5c1b233d9.jpg",
+    "static/media/meteor.jpg": "/N_Heart/static/media/meteor.aad8912dd126a0c20bb6.jpg",
+    "static/media/pink-flu.jpg": "/N_Heart/static/media/pink-flu.4384f830ad3d76a98e84.jpg",
+    "static/media/4klove.jpg": "/N_Heart/static/media/4klove.e2b74c3f1ecb49b0cb9c.jpg",
+    "static/media/heaRt.png": "/N_Heart/static/media/heaRt.6e779c2fdcfa2d4cab98.png",
+    "static/media/roses-flowers.jpg": "/N_Heart/static/media/roses-flowers.2afc1dd357ca04859bc0.jpg",
+    "static/media/hearts-r.jpg": "/N_Heart/static/media/hearts-r.1eb2c06942e24ce465a4.jpg",
+    "static/media/a_smile.jpg": "/N_Heart/static/media/a_smile.f1e7d9b5fabcc0be5652.jpg",
+    "static/media/wbg.jpg": "/N_Heart/static/media/wbg.1980f35feef154fd716f.jpg",
+    "static/media/nL.jpg": "/N_Heart/static/media/nL.b555f9ffb06f6dd6c344.jpg",
+    "index.html": "/N_Heart/index.html",
+    "main.2f17f55a.css.map": "/N_Heart/static/css/main.2f17f55a.css.map",
+    "main.45702b2c.js.map": "/N_Heart/static/js/main.45702b2c.js.map",
+    "787.2e79988e.chunk.js.map": "/N_Heart/static/js/787.2e79988e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f17f55a.css",
+    "static/js/main.45702b2c.js"
+  ]
+}
