@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import "./Contract.css"
+
 
 const Contract = () => {
     const [data, setData] = useState({
@@ -24,9 +24,9 @@ const Contract = () => {
         e.preventDefault()
         alert(`
         My Name is ${data.fullName}
-        .My Phone Number${data.phone}
-        .My email is${data.email}
-        .My Message is${data.msg}`)
+        My Phone Number ${data.phone}
+        My email is ${data.email}
+        My Message is ${data.msg}`)
     };
 
     return (
@@ -65,10 +65,12 @@ const Contract = () => {
                             </div>
                             <div class="mb-3">
                                 <label for="exampleFormControlTextarea1" class="form-label">Message For us</label>
+                                
+                                <textarea 
                                 name="msg"
                                 value={data.msg}
                                 onChange={inputEvent}
-                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                             </div>
                             <button type="submit" className="btn btn-primary text-center">Submit</button>
                         </form>
